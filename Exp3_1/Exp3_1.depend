@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452090009 source:e:\algorithm\exp\exp3_1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
